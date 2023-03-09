@@ -1,0 +1,133 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 1%;
+}
+
+.h1_no_margin {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.h2_destinazioni {
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.divMain {
+    margin: 3% 2% 3% 2%;
+}
+
+.divMain2 {
+    margin: auto 2% auto 2%;
+}
+
+.container1 {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    column-gap: 5%;
+    margin-bottom: 4%;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 2% 20% auto 20%;
+}
+
+.container3 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    row-gap: 10%;
+    margin: 3% auto 20% auto;
+}
+
+.casella {
+    text-align: center;
+    margin: auto
+}
+
+.casella2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.casella3 {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+.wrapperA {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.wrapperB {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-right: 2%;
+}
+
+.divA {
+    margin: 0 1% 0 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.a1 {
+    text-decoration: underline;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: blue;
+}
+
+footer {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 30px 10px 10px auto;
+    text-align: right;
+}
+
+hr {
+    height: 8px;
+    background-color: black;
+    border: 0;
+}
+
+li {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 5px;
+}
