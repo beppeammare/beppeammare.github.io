@@ -1,0 +1,32 @@
+all u can eat 1 volta a settimana
+
+menu fisso a pranzo carta tutte le sere
+
+polipo e bistecca
+
+50% in piu per chi arriva in barca
+
+convenzione con un lido
+
+parcheggio gratis 
+
+Sappiamo che la vostra salute è importante, ma la vostra felicità è la nostra priorità assoluta! Ecco perché da Pepponea'Mare vi offriamo un'esperienza gastronomica senza pari con il nostro all you can't eat a soli 150€. E se siete preoccupati per le calorie, non preoccupatevi, abbiamo pensato a voi: non offriamo il nostro menù all you can eat solo negli anni bisestili. Venite da noi e lasciate che il vostro palato festeggi, senza dover pensare a nulla!
+
+
+
+
+for (int menu = 1; seiSazio<cibo; i++) {
+    System.out.println("Menu #" + i);}
+
+Chi ha detto che il polpo è un cefalopode senza sentimenti? Da noi, abbiamo creato un piatto che unisce i sapori della carne e del polpo, ma con una sorpresa inaspettata: il polpo è morto, ma sembra ancora provare emozioni! Una volta che lo morderete, sentirai la sua tristezza e disperazione mescolarsi con la carne tenera e succulenta. Ecco perché il nostro piatto di carne e polpo è l'esperienza gastronomica più unica e memorabile che avrete mai avuto. Venite da noi per sperimentare la magia di un piatto che non solo sa bene, ma fa anche sentire bene... almeno al polpo!
+
+E se arrivate in barca, il nostro ristorante diventa il vostro porto sicuro! Prenotate ora e pagate solo il doppio per godervi il piacere di mangiare con i piedi nell'acqua. Ma attenzione, se la vostra barca inizia a prendere acqua, non preoccupatevi: vi offriamo anche un'esperienza di nuoto gratuita, solo da noi da Pepponea'Mare!
+
+
+
+               priorità in back log
+----------------------------------------------
+logo meno anonimo piu dettagli indirizzo
+-implemento googleads
+implemento #
+------------------------------------------------
